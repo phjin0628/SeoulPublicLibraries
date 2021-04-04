@@ -22,7 +22,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
-
+    //깃허브
     //서울 도서관 인증키 6557544e4170686a3336705652794a
 
     private lateinit var mMap: GoogleMap
